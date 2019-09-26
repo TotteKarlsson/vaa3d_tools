@@ -6,7 +6,7 @@
 #include "v3d_message.h"
 #include <vector>
 #include "IVSCC_sort_swc_plugin.h"
-#include "../AllenNeuron_postprocessing/sort_swc_IVSCC.h"
+#include "sort_swc_IVSCC.h"
 #include "openSWCDialog.h"
 
 
