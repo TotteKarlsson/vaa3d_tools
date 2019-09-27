@@ -14,7 +14,7 @@
 #include "../IVSCC_radius_estimation/marker_radius.h"
 #include "../IVSCC_radius_estimation/smooth_curve.h"
 #include "../IVSCC_radius_estimation/hierarchy_prune.h"
-#include "../../../released_plugins/v3d_plugins/global_neuron_feature/compute.h"
+#include "../../../../v3d_external/v3d_main/neuron_editing/global_feature_compute.h"
 #include "../../../released_plugins/v3d_plugins/istitch/y_imglib.h"
 
 #define FNUM 22
