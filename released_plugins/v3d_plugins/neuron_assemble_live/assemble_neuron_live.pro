@@ -12,6 +12,7 @@ INCLUDEPATH     += $$VAA3DPATH/v3d_main/3drenderer
 INCLUDEPATH     += $$VAA3DPATH/v3d_main/basic_c_fun/customary_structs
 INCLUDEPATH     += $$VAA3DPATH/v3d_main
 INCLUDEPATH     += $$QT_PATH/demos/shared
+INCLUDEPATH     += "C:/pDisk/vsbuild/include"
 
 macx{
     INCLUDEPATH += $$VAA3DPATH/v3d_main/common_lib/include/hdf5
