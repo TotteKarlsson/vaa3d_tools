@@ -6,6 +6,13 @@
 #include "v3d_message.h"
 #include <vector>
 #include "IVSCC_sort_swc_plugin.h"
+
+//This was changed by TK in order to succesfully sort a file submitted by Grace
+//The sort_swc_IVSCC.h header in this folder is from a previous date, as compared with the 
+//../AllenNeuron_postprocessing/sort_swc_IVSCC.h header
+
+//#include "../AllenNeuron_postprocessing/sort_swc_IVSCC.h"
+
 #include "sort_swc_IVSCC.h"
 #include "openSWCDialog.h"
 
